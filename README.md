@@ -15,4 +15,4 @@ Tato PHP aplikace zobrazuje šampiony z LoL, umožňuje přidávat nové a zobra
 
 ## Odkazy
 - Webová aplikace: [https://app.opent2.com/it3a/martinle/dyn/index.php]
-- GitHub: [https://github.com/tvoje_repo](https://github.com/tvoje_repo]
+- GitHub: [https://github.com/MikiiLe/dyn/tree/main]
